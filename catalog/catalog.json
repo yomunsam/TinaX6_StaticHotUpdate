@@ -1,22 +1,18 @@
 {
-    "app_name":"space.corala.tinax",
-    "cur_version":2,
-    "versions":[
-        {
-            "version":1,
-            "name":"1.0.0",
-            "desc":"版本概述",
-            "url":"1.pkg",
-            "type":"pkg",
-            "force":true
-        },
-        {
-            "version":2,
-            "name":"1.0.1",
-            "desc":"版本概述",
-            "url":"2.pkg",
-            "type":"pkg",
-            "force":true
+    "versions":[ 
+        {  
+            "base_version":1, 
+            "upgrade_type":"max", 
+            "download_type":"", 
+            "webpage_url":"xxxxx", 
+            "packages":[    
+                {
+                    "version":1, 
+                    "md5":"xxxxxx", 
+                    "url":"xxxx", 
+                    "size":100
+                }
+            ]
         }
     ]
 }
