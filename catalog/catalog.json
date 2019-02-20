@@ -3,14 +3,14 @@
         {  
             "base_version":1, 
             "upgrade_type":"max", 
-            "download_type":"", 
-            "webpage_url":"xxxxx", 
+            "download_type":"default", 
+            "webpage_url":"", 
             "packages":[    
                 {
                     "version":1, 
-                    "md5":"xxxxxx", 
-                    "url":"xxxx", 
-                    "size":100
+                    "md5":"466380ff33d6f740bbe8e3e9a08d3d70", 
+                    "url":"http://127.0.0.1:8080/pkg/1.xpk", 
+                    "size":15.3
                 }
             ]
         }
