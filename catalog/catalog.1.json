@@ -4,12 +4,12 @@
             "base_version":1, 
             "upgrade_type":"max", 
             "download_type":"webpage", 
-            "webpage_url":"http://www.corala.space/TinaX6_StaticHotUpdate/", 
+            "webpage_url":"https://github.com/yomunsam/TinaX6_StaticHotUpdate", 
             "packages":[    
                 {
                     "version":1, 
                     "md5":"466380ff33d6f740bbe8e3e9a08d3d70", 
-                    "url":"http://www.corala.space/TinaX6_StaticHotUpdate/pkg/1.xpk", 
+                    "url":"http://127.0.0.1:8080/pkg/1.xpk", 
                     "size":15.3
                 }
             ]
